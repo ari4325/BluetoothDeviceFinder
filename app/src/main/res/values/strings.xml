@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothDeviceFinder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="antar_header"><u>Antar Setu: Contact History </u></string>
+    <string name="days"><u>days</u></string>
+</resources>
